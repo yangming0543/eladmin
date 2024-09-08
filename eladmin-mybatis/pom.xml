@@ -13,7 +13,7 @@
     <name>ELADMIN--MYBATIS框架</name>
     <packaging>pom</packaging>
     <modules>
-        <module>eladmin-core</module>
+        <module>eladmin-mybatis-core</module>
     </modules>
 
     <properties>

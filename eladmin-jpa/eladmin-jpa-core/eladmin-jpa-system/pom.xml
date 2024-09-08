@@ -27,7 +27,7 @@
             <exclusions>
                 <exclusion>
                     <groupId>me.zhengjie</groupId>
-                    <artifactId>eladmin-common</artifactId>
+                    <artifactId>eladmin-mybatis-common</artifactId>
                 </exclusion>
             </exclusions>
         </dependency>

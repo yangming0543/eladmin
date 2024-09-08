@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>me.zhengjie</groupId>
-        <artifactId>eladmin-core</artifactId>
+        <artifactId>eladmin-mybatis-core</artifactId>
         <version>1.0.0</version>
     </parent>
 
     <groupId>me.zhengjie</groupId>
-    <artifactId>eladmin-system</artifactId>
+    <artifactId>eladmin-mybatis-system</artifactId>
     <name>MYBATIS框架--核心模块</name>
 
     <properties>
@@ -23,12 +23,12 @@
         <!-- 代码生成模块 -->
         <dependency>
             <groupId>me.zhengjie</groupId>
-            <artifactId>eladmin-generator</artifactId>
+            <artifactId>eladmin-mybatis-generator</artifactId>
             <version>1.0.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>me.zhengjie</groupId>
-                    <artifactId>eladmin-common</artifactId>
+                    <artifactId>eladmin-mybatis-common</artifactId>
                 </exclusion>
             </exclusions>
         </dependency>
@@ -36,7 +36,7 @@
         <!-- tools 模块包含了 common 和 logging 模块 -->
         <dependency>
             <groupId>me.zhengjie</groupId>
-            <artifactId>eladmin-tools</artifactId>
+            <artifactId>eladmin-mybatis-tools</artifactId>
             <version>1.0.0</version>
         </dependency>
 

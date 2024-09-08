@@ -9,14 +9,14 @@
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>eladmin-core</artifactId>
+    <artifactId>eladmin-mybatis-core</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>eladmin-common</module>
-        <module>eladmin-generator</module>
-        <module>eladmin-logging</module>
-        <module>eladmin-system</module>
-        <module>eladmin-tools</module>
+        <module>eladmin-mybatis-common</module>
+        <module>eladmin-mybatis-generator</module>
+        <module>eladmin-mybatis-logging</module>
+        <module>eladmin-mybatis-system</module>
+        <module>eladmin-mybatis-tools</module>
     </modules>
 
     <name>ELADMIN--后台管理--MYBATIS框架</name>
