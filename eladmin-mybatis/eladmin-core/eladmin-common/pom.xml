@@ -11,7 +11,7 @@
 
     <groupId>me.zhengjie</groupId>
     <artifactId>eladmin-common</artifactId>
-    <name>公共模块</name>
+    <name>MYBATIS框架--公共模块</name>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

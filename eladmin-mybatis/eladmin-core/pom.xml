@@ -19,7 +19,7 @@
         <module>eladmin-tools</module>
     </modules>
 
-    <name>ELADMIN 后台管理</name>
+    <name>ELADMIN--后台管理--MYBATIS框架</name>
     <url>https://eladmin.vip</url>
 
     <properties>

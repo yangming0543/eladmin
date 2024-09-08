@@ -11,7 +11,7 @@
     <artifactId>eladmin</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
-    <name>eladmin</name>
+    <name>ELADMIN--管理系统</name>
     <description>eladmin</description>
     <modules>
         <module>eladmin-jpa</module>

@@ -10,6 +10,7 @@
     </parent>
 
     <artifactId>eladmin-mybatis</artifactId>
+    <name>ELADMIN--MYBATIS框架</name>
     <packaging>pom</packaging>
     <modules>
         <module>eladmin-core</module>
